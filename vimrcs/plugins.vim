@@ -1,5 +1,4 @@
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'jlanzarotta/bufexplorer'
 Plugin 'kien/ctrlp.vim'
@@ -39,4 +38,4 @@ Plugin 'honza/vim-snippets'
 Plugin 'tpope/vim-surround'
 Plugin 'maxbrunsfeld/vim-yankstack'
 Plugin 'amix/vim-zenroom2'
-
+Plugin 'Valloric/YouCompleteMe'

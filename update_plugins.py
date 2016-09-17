@@ -51,6 +51,7 @@ gruvbox https://github.com/morhetz/gruvbox
 vim-flake8 https://github.com/nvie/vim-flake8
 vim-pug https://github.com/digitaltoad/vim-pug
 vim-yankstack https://github.com/maxbrunsfeld/vim-yankstack
+auto-pairs https://github.com/jiangmiao/auto-pairs
 lightline.vim https://github.com/itchyny/lightline.vim
 """.strip()
 

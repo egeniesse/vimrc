@@ -142,7 +142,7 @@ set foldcolumn=1
 syntax enable 
 
 try
-    colorscheme desert
+    colorscheme solarzed 
 catch
 endtry
 
@@ -268,6 +268,11 @@ set laststatus=2
 " Format the status line
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Setting tabs to be 2 spaces and setting line numbers
+
+set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+set number
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Editing mappings

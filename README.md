@@ -12,7 +12,7 @@ I would of course recommend using the awesome version.c
 ## How to install the Awesome version?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
-	git clone https://github.com/egeniesse/vimrc.git .vim && sh .vim/init_env.sh
+	git clone https://github.com/egeniesse/vimrc.git ~/.vim && sh ~/.vim/init_env.sh
 
 I also recommend using [Source Code Pro font from Adobe](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) (it's free and awesome font for writing and programming). The Awesome vimrc is already setup to try to use it
 
